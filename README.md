@@ -6,7 +6,7 @@ The objective of this project was to recreate a provided design using only **HTM
 
 ## Preview
 
-
+ https://srijanrastogi.github.io/Landing-Page/
 
 ## Features
 
@@ -32,7 +32,7 @@ Landing-Page/
 │
 ├── index.html
 ├── styles.css
-├── screenshot.png
+├── reference-design.png
 └── README.md
 ```
 
@@ -41,7 +41,9 @@ Landing-Page/
 This project is part of **The Odin Project** 
 
 Design reference provided by The Odin Project:
-https://raw.githubusercontent.com/TheOdinProject/curriculum/81a5d553f4073e593d23a6ab00d50eef8620796d/foundations/html_css/project/imgs/01.pngs
+## Design Reference
+
+[View Reference Design](./reference-design.png)
 
 ## Author
 
